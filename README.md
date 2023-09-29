@@ -1,13 +1,13 @@
 ## Задание. Международные перелеты
 
 1) Создать БД `flight_repo` с таблицами:
-   - **airport (аэропрот)**
+   - **airport (аэропорт)**
       - code
       - country
       - city
    - **aircraft (самолет)**
      - id
-     - mode
+     - model
    - **seat (место в самолете)**
      - aircraft_id
      - seat_no
@@ -19,7 +19,7 @@
      - arrival_date
      - arrival_airport_code
      - aircraft_id
-     - status (cancelled, arrived, departed, boarding, shceduled)
+     - status (cancelled, arrived, departed, boarding, scheduled)
    - **ticket (билет)**
      - id
      - passport_no
