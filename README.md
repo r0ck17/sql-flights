@@ -41,3 +41,8 @@
    - Вывести стоимость всех маршрутов по убыванию(*)
    - Отобразить разницу в стоимости между текущим и ближайшими маршрутами в отсортированном списке
 4) Прислать диаграмму базы и скрины с выполнением запросов
+
+### Решение задачи
+- [Демонстрация решения](https://github.com/r0ck17/sql-flights/blob/main/solution.md)
+- [Запросы для создания БД](https://github.com/r0ck17/sql-flights/blob/main/create-database.sql)
+- [Запросы по задачам](https://github.com/r0ck17/sql-flights/blob/main/queries.sql)
